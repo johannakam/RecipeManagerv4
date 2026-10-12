@@ -1,0 +1,5692 @@
+[
+  {
+    "id": 1,
+    "titel": "Baked Oats mit Himbeeren",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 2,
+    "bild": "baked-oats-mit-himbeeren",
+    "anleitung": "Ofen auf 180 °C vorheizen. Haferflocken, Bananen, Eier, Quark und Backpulver mit dem Stabmixer pürieren. Die Hälfte der Himbeeren unterheben und die Masse in zwei Förmchen füllen. Mit den restlichen Himbeeren und Honig toppen und 22 bis 25 Minuten backen, bis die Oberfläche goldgelb ist.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Banane",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Himbeeren",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titel": "Blaubeer-Protein-Muffins",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 6,
+    "bild": "blaubeer-protein-muffins",
+    "anleitung": "Ofen auf 180 °C vorheizen. Haferflocken im Mixer zu grobem Mehl mahlen. Quark, Eier, Honig und Milch verrühren, dann Haferflockenmehl, Backpulver und Zimt unterheben. Blaubeeren vorsichtig einrühren und den Teig auf 6 Muffinförmchen verteilen. 22 bis 25 Minuten backen und kurz abkühlen lassen.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Blaubeeren",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Honig",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Milch",
+        "menge": 60,
+        "einheit": "ml"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Zimt",
+        "menge": 0.5,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titel": "Gefüllte Frühstücks-Wraps",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 20,
+    "portionen": 2,
+    "bild": "gefuellte-fruehstuecks-wraps",
+    "anleitung": "Paprika würfeln und mit den Champignonscheiben in Olivenöl 5 Minuten anbraten. Spinat zugeben, kurz zusammenfallen lassen. Eier verquirlen und unterrühren, bis sie gerade gestockt sind. Die Wraps kurz erwärmen, mit Rührei-Gemüse und zerbröseltem Feta füllen und fest einrollen.",
+    "zutaten": [
+      {
+        "name": "Vollkorn-Wrap",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Eier",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Champignons",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Feta",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titel": "Gemüse-Rösti mit Spiegelei",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 2,
+    "bild": "gemuese-roesti-mit-spiegelei",
+    "anleitung": "Kartoffeln, Zucchini und Karotte grob raspeln und in einem Tuch fest ausdrücken. Mit einem Ei, Salz und Pfeffer vermengen. In einer Pfanne mit Olivenöl zwei flache Rösti formen und je Seite 6 bis 8 Minuten goldbraun braten. Die übrigen Eier als Spiegeleier braten und mit Joghurt und Schnittlauch auf den Rösti anrichten.",
+    "zutaten": [
+      {
+        "name": "Kartoffeln",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Eier",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Schnittlauch",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Pfeffer",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titel": "Herzhafte Haferflocken-Pfanne mit Ei",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 20,
+    "portionen": 1,
+    "bild": "herzhafte-haferflocken-pfanne-mit-ei",
+    "anleitung": "Champignons in Scheiben in Olivenöl anbraten. Haferflocken dazugeben, mit Gemüsebrühe aufgießen und unter Rühren 5 Minuten zu einem cremigen Brei einkochen. Spinat unterheben und zusammenfallen lassen. In einer zweiten Pfanne ein Spiegelei braten, auf den Haferbrei setzen und mit Parmesan bestreuen.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 200,
+        "einheit": "ml"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Champignons",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 10,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titel": "Hüttenkäse-Crêpes mit Erdbeeren",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 25,
+    "portionen": 2,
+    "bild": "huettenkaese-cr-pes-mit-erdbeeren",
+    "anleitung": "Haferflocken, Eier, Hüttenkäse und Milch im Mixer zu einem glatten Teig pürieren und 10 Minuten ruhen lassen. In einer beschichteten Pfanne mit wenig Öl dünne Crêpes ausbacken. Erdbeeren in Scheiben schneiden und mit Honig mischen. Die Crêpes füllen und zusammenrollen.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Hüttenkäse",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Milch",
+        "menge": 150,
+        "einheit": "ml"
+      },
+      {
+        "name": "Erdbeeren",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titel": "Kürbis-Haferbrei mit Walnüssen",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 25,
+    "portionen": 2,
+    "bild": "kuerbis-haferbrei-mit-walnuessen",
+    "anleitung": "Kürbis klein würfeln und in einem Topf mit etwas Wasser 8 Minuten weich kochen. Mit der Gabel oder dem Stabmixer zerdrücken. Haferflocken und Milch zugeben und unter Rühren 6 Minuten cremig köcheln. Mit Zimt, Muskat und Honig abschmecken und mit gehackten Walnüssen servieren.",
+    "zutaten": [
+      {
+        "name": "Kürbis",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Milch",
+        "menge": 400,
+        "einheit": "ml"
+      },
+      {
+        "name": "Zimt",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Muskat",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Walnüsse",
+        "menge": 30,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titel": "Linsen-Süßkartoffel-Hash mit Ei",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "linsen-suesskartoffel-hash-mit-ei",
+    "anleitung": "Süßkartoffel in kleine Würfel schneiden und in Olivenöl 10 Minuten braten. Zwiebel und Paprika würfeln und mit den Gewürzen dazugeben. Linsen unterheben und alles weitere 5 Minuten braten. Zwei Mulden formen, die Eier hineinschlagen und zugedeckt stocken lassen. Mit Petersilie bestreuen.",
+    "zutaten": [
+      {
+        "name": "Süßkartoffel",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Linsen",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titel": "Pfannkuchenröllchen mit Räucherlachs",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "pfannkuchenroellchen-mit-raeucherlachs",
+    "anleitung": "Haferflocken, Eier und Milch zu einem dünnen Teig pürieren und 10 Minuten quellen lassen. Dünne Pfannkuchen ausbacken und auskühlen lassen. Frischkäse mit Dill und etwas Zitronensaft verrühren, auf die Pfannkuchen streichen und mit Räucherlachs und Gurkenstreifen belegen. Fest aufrollen und in Scheiben schneiden.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Milch",
+        "menge": 120,
+        "einheit": "ml"
+      },
+      {
+        "name": "Frischkäse",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Räucherlachs",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Dill",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titel": "Protein-Pfannkuchen",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 15,
+    "portionen": 2,
+    "bild": "protein-pfannkuchen",
+    "anleitung": "Haferflocken, Eier, Magerquark, Banane und Backpulver mit dem Stabmixer zu einem glatten Teig pürieren. In einer beschichteten Pfanne mit etwas Öl portionsweise goldbraun ausbacken.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Banane",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "titel": "Protein-Waffeln mit Beerenkompott",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 4,
+    "bild": "protein-waffeln-mit-beerenkompott",
+    "anleitung": "Beeren mit Honig 5 Minuten in einem kleinen Topf köcheln, bis ein Kompott entsteht. Haferflocken, Quark, Eier, Banane, Milch und Backpulver mit dem Stabmixer zu einem glatten Teig pürieren und 5 Minuten quellen lassen. Das Waffeleisen einfetten und den Teig portionsweise goldbraun ausbacken. Die Waffeln mit dem Kompott servieren.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 160,
+        "einheit": "g"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Banane",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Milch",
+        "menge": 100,
+        "einheit": "ml"
+      },
+      {
+        "name": "Beeren",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "titel": "Quark-Haferflocken-Brot",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 70,
+    "portionen": 8,
+    "bild": "quark-haferflocken-brot",
+    "anleitung": "Ofen auf 180 °C vorheizen und eine Kastenform mit Backpapier auslegen. Haferflocken, Vollkornmehl, Backpulver, Salz, Leinsamen und Sonnenblumenkerne mischen. Quark und Eier glatt verrühren und mit den trockenen Zutaten zu einem festen Teig verkneten. Den Teig in die Form geben, die Oberfläche glätten und 55 bis 60 Minuten backen. Vor dem Anschneiden vollständig auskühlen lassen.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Vollkornmehl",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Leinsamen",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Sonnenblumenkerne",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "titel": "Spargel-Rührei mit Räucherlachs",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 2,
+    "bild": "spargel-ruehrei-mit-raeucherlachs",
+    "anleitung": "Spargel schälen, holzige Enden abschneiden und in Stücke schneiden. In Olivenöl 6 bis 8 Minuten bissfest braten. Eier verquirlen, zum Spargel geben und bei niedriger Hitze cremig stocken lassen. Vollkornbrot toasten, Rührei darauf anrichten und mit Räucherlachs, Schnittlauch und Zitronensaft vollenden.",
+    "zutaten": [
+      {
+        "name": "Spargel",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "name": "Räucherlachs",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Schnittlauch",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "titel": "Spinat-Feta-Frittata",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "spinat-feta-frittata",
+    "anleitung": "Ofen auf 200 °C vorheizen. Zwiebel würfeln und in einer ofenfesten Pfanne in Olivenöl glasig dünsten. Spinat dazugeben und zusammenfallen lassen. Eier mit Pfeffer verquirlen, über das Gemüse gießen und Feta und Tomatenwürfel darauf verteilen. Die Frittata 3 Minuten auf dem Herd stocken lassen und 12 bis 15 Minuten im Ofen goldgelb backen.",
+    "zutaten": [
+      {
+        "name": "Eier",
+        "menge": 6,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Pfeffer",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "titel": "Spinat-Feta-Taschen",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 55,
+    "portionen": 6,
+    "bild": "spinat-feta-taschen",
+    "anleitung": "Vollkornmehl, Joghurt, Backpulver und Salz zu einem geschmeidigen Teig kneten und 15 Minuten ruhen lassen. Zwiebel in Olivenöl dünsten, Spinat zugeben, zusammenfallen lassen und abkühlen lassen. Mit Feta, Dill, Muskat und einem Ei mischen. Den Teig dünn ausrollen, in 6 Kreise schneiden und mit der Füllung belegen. Zu Halbmonden falten, die Ränder fest andrücken, mit verquirltem Ei bestreichen und 20 bis 25 Minuten bei 200 °C backen.",
+    "zutaten": [
+      {
+        "name": "Vollkornmehl",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Dill",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Muskat",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "titel": "Süßkartoffel-Toast mit pochiertem Ei",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 25,
+    "portionen": 2,
+    "bild": "suesskartoffel-toast-mit-pochiertem-ei",
+    "anleitung": "Süßkartoffel in 1 cm dicke Längsscheiben schneiden und im Ofen oder Toaster weich und leicht gebräunt garen. Avocado mit Zitronensaft, Salz und Chiliflocken zerdrücken. Wasser in einem Topf knapp unter dem Siedepunkt halten und die Eier einzeln darin 3 bis 4 Minuten pochieren. Die Süßkartoffelscheiben mit Avocado bestreichen und die Eier daraufsetzen.",
+    "zutaten": [
+      {
+        "name": "Süßkartoffel",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Avocado",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "titel": "Tofu-Rührei mit Gemüse",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 20,
+    "portionen": 2,
+    "bild": "tofu-ruehrei-mit-gemuese",
+    "anleitung": "Zwiebel und Paprika würfeln und in Olivenöl anbraten. Tofu mit der Gabel grob zerdrücken, mit Kurkuma, Sojasauce und Pfeffer zum Gemüse geben und 6 Minuten braten. Spinat unterheben und zusammenfallen lassen. Mit Schnittlauch bestreut servieren.",
+    "zutaten": [
+      {
+        "name": "Tofu",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Kurkuma",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Schnittlauch",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Pfeffer",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "titel": "Zucchini-Feta-Muffins",
+    "kategorie": "Frühstück",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 6,
+    "bild": "zucchini-feta-muffins",
+    "anleitung": "Ofen auf 180 °C vorheizen. Zucchini und Karotte fein raspeln und gut ausdrücken. Eier mit Joghurt verquirlen, Haferflocken und Backpulver unterrühren. Raspel, zerbröselten Feta und Petersilie unterheben und mit Pfeffer würzen. Den Teig in 6 Muffinförmchen füllen und 25 Minuten backen.",
+    "zutaten": [
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Eier",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Pfeffer",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "titel": "Gefüllte Champignons mit Spinat und Frischkäse",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "gefuellte-champignons-mit-spinat-und-frischkaese",
+    "anleitung": "Ofen auf 200 °C vorheizen. Champignonstiele herausdrehen und fein hacken. Mit Knoblauch in Olivenöl anbraten, Spinat zugeben und zusammenfallen lassen. Mit Frischkäse und Petersilie verrühren, die Köpfe damit füllen, mit Parmesan bestreuen und 15 bis 18 Minuten backen.",
+    "zutaten": [
+      {
+        "name": "Champignons",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Frischkäse",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "titel": "Gefüllte Eier mit Paprika-Quark",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 4,
+    "bild": "gefuellte-eier-mit-paprika-quark",
+    "anleitung": "Eier 10 Minuten hart kochen, abschrecken und schälen. Der Länge nach halbieren und das Eigelb herauslösen. Eigelb mit Quark, Senf, Zitronensaft und Paprikapulver glatt rühren und abschmecken. Die Creme in die Eiweißhälften füllen und mit Schnittlauch bestreuen.",
+    "zutaten": [
+      {
+        "name": "Eier",
+        "menge": 6,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Schnittlauch",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "titel": "Guacamole mit Wrap-Chips",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 2,
+    "bild": "guacamole-mit-wrap-chips",
+    "anleitung": "Ofen auf 200 °C vorheizen. Wraps in Dreiecke schneiden, mit Olivenöl und Paprikapulver mischen und 6 bis 8 Minuten knusprig backen. Avocados mit Limettensaft zerdrücken. Tomatenwürfel, fein gehackte Zwiebel und Petersilie unterheben und mit Salz abschmecken. Die Chips zur Guacamole servieren.",
+    "zutaten": [
+      {
+        "name": "Avocado",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Vollkorn-Wrap",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "titel": "Linsen-Frikadellen mit Quark-Dip",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 4,
+    "bild": "linsen-frikadellen-mit-quark-dip",
+    "anleitung": "Linsen in Gemüsebrühe 12 Minuten weich kochen und abtropfen lassen. Zwiebel und Karotte fein reiben. Linsen leicht zerdrücken und mit Haferflocken, Ei, Zwiebel, Karotte und den Gewürzen zu einer formbaren Masse verkneten. Kleine Frikadellen formen und in Olivenöl von beiden Seiten goldbraun braten. Quark mit Dill und Zitronensaft zum Dip verrühren.",
+    "zutaten": [
+      {
+        "name": "Rote Linsen",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Eier",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 300,
+        "einheit": "ml"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Dill",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "titel": "Ofen-Falafel mit Joghurt-Dip",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 50,
+    "portionen": 4,
+    "bild": "ofen-falafel-mit-joghurt-dip",
+    "anleitung": "Ofen auf 200 °C vorheizen. Kichererbsen abtropfen lassen und mit Zwiebel, 2 Knoblauchzehen, Petersilie, Kreuzkümmel, Zitronensaft, Haferflocken und Backpulver im Mixer zu einer groben Masse verarbeiten. Aus dem Teig 16 kleine Bällchen formen, mit Olivenöl bestreichen und 25 Minuten backen, dabei einmal wenden. Für den Dip Joghurt mit geriebener Gurke und einer gepressten Knoblauchzehe verrühren.",
+    "zutaten": [
+      {
+        "name": "Kichererbsen",
+        "menge": 480,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 3,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "titel": "Ofen-Hähnchen-Nuggets mit Joghurt-Dip",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 2,
+    "bild": "ofen-haehnchen-nuggets-mit-joghurt-dip",
+    "anleitung": "Ofen auf 200 °C vorheizen. Hähnchenbrust in mundgerechte Stücke schneiden. Haferflocken im Mixer fein mahlen und mit Parmesan und Paprikapulver mischen. Hähnchenstücke erst in verquirltem Ei, dann in der Haferflocken-Mischung wenden und auf einem Blech mit Olivenöl beträufeln. 18 bis 20 Minuten backen. Joghurt mit Schnittlauch und Zitronensaft zum Dip verrühren.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Schnittlauch",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "titel": "Protein-Energy-Balls",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 10,
+    "portionen": 4,
+    "bild": "protein-energy-balls",
+    "anleitung": "Haferflocken, Erdnussmus, Honig, Proteinpulver, Kakao und Milch zu einer formbaren Masse verkneten. Zu Kugeln rollen und mindestens 30 Minuten kühlen.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Erdnussmus",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Proteinpulver",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Kakao",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Milch",
+        "menge": 2,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "titel": "Selbstgemachte Protein-Riegel",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 8,
+    "bild": "selbstgemachte-protein-riegel",
+    "anleitung": "Haferflocken, gehackte Mandeln und Proteinpulver mischen. Erdnussmus mit Honig und Milch leicht erwärmen, bis es geschmeidig wird, und zu den trockenen Zutaten geben. Alles gut verkneten und fest in eine mit Backpapier ausgelegte Form drücken. Mindestens 30 Minuten kühlen, in 8 Riegel schneiden und mit geschmolzener Schokolade beträufeln.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Erdnussmus",
+        "menge": 4,
+        "einheit": "EL"
+      },
+      {
+        "name": "Honig",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Proteinpulver",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Mandeln",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Dunkle Schokolade",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Milch",
+        "menge": 50,
+        "einheit": "ml"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "titel": "Selbstgemachter Hummus mit Ofengemüse-Sticks",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 25,
+    "portionen": 4,
+    "bild": "selbstgemachter-hummus-mit-ofengemuese-sticks",
+    "anleitung": "Kichererbsen mit Tahin, Zitronensaft, Knoblauch, Olivenöl, Kreuzkümmel und etwas Wasser im Mixer sehr cremig pürieren. Karotten und Paprika in Sticks schneiden, mit Olivenöl mischen und 15 Minuten bei 200 °C im Ofen rösten. Gurke in Sticks schneiden. Den Hummus mit Gemüse servieren.",
+    "zutaten": [
+      {
+        "name": "Kichererbsen",
+        "menge": 240,
+        "einheit": "g"
+      },
+      {
+        "name": "Tahin",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Karotten",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Gurke",
+        "menge": 1,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "titel": "Süßkartoffel-Wedges mit Hummus",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 40,
+    "portionen": 2,
+    "bild": "suesskartoffel-wedges-mit-hummus",
+    "anleitung": "Ofen auf 220 °C vorheizen. Süßkartoffeln in Spalten schneiden, mit Olivenöl, Paprikapulver und Salz mischen und auf einem Blech verteilen. 25 bis 30 Minuten backen und dabei einmal wenden. Hummus mit Zitronensaft glatt rühren und mit Petersilie bestreuen. Die Wedges dazu servieren.",
+    "zutaten": [
+      {
+        "name": "Süßkartoffel",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Hummus",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "titel": "Thunfisch-Süßkartoffel-Bällchen",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 4,
+    "bild": "thunfisch-suesskartoffel-baellchen",
+    "anleitung": "Süßkartoffel schälen, würfeln und in Salzwasser 12 Minuten weich kochen, abgießen und zerstampfen. Thunfisch abtropfen lassen und mit Süßkartoffelpüree, Ei, Haferflocken, Schnittlauch, Zitronensaft und Paprikapulver vermengen. Kleine Bällchen formen, mit Olivenöl bestreichen und bei 200 °C etwa 20 Minuten backen, bis sie knusprig sind.",
+    "zutaten": [
+      {
+        "name": "Thunfisch",
+        "menge": 2,
+        "einheit": "Dose"
+      },
+      {
+        "name": "Süßkartoffel",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Schnittlauch",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "titel": "Wrap-Mini-Pizzen",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 2,
+    "bild": "wrap-mini-pizzen",
+    "anleitung": "Ofen auf 220 °C vorheizen. Wraps auf ein Blech legen und 3 Minuten vorbacken. Passierte Tomaten mit Oregano, Salz und Olivenöl verrühren und auf die Wraps streichen. Mit Champignonscheiben, Paprikastreifen und Mozzarella belegen und 8 bis 10 Minuten backen. Mit Basilikum bestreuen.",
+    "zutaten": [
+      {
+        "name": "Vollkorn-Wrap",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Champignons",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Basilikum",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "titel": "Zucchini-Puffer mit Skyr-Dip",
+    "kategorie": "Snack",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 3,
+    "bild": "zucchini-puffer-mit-skyr-dip",
+    "anleitung": "Zucchini grob raspeln, salzen und 10 Minuten ziehen lassen, dann fest ausdrücken. Mit Eiern, Haferflocken, zerbröseltem Feta und Dill vermengen. Kleine Puffer in Olivenöl je Seite 3 bis 4 Minuten goldbraun braten. Skyr mit gepresstem Knoblauch und Zitronensaft zum Dip verrühren.",
+    "zutaten": [
+      {
+        "name": "Zucchini",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Dill",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Skyr",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "titel": "Apfel-Zimt-Crumble",
+    "kategorie": "Shake & Dessert",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 45,
+    "portionen": 4,
+    "bild": "apfel-zimt-crumble",
+    "anleitung": "Ofen auf 180 °C vorheizen. Äpfel schälen, würfeln und mit Zitronensaft, Zimt und der Hälfte des Honigs in eine Auflaufform geben. Haferflocken, gehackte Walnüsse, restlichen Honig und Olivenöl zu Streuseln verkneten und auf den Äpfeln verteilen. 25 bis 30 Minuten backen. Warm mit Joghurt servieren.",
+    "zutaten": [
+      {
+        "name": "Apfel",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Walnüsse",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Honig",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zimt",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Griechischer Joghurt",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "titel": "Haferkekse mit dunkler Schokolade",
+    "kategorie": "Shake & Dessert",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 12,
+    "bild": "haferkekse-mit-dunkler-schokolade",
+    "anleitung": "Ofen auf 180 °C vorheizen. Bananen zerdrücken und mit Erdnussmus, Honig und Zimt verrühren. Haferflocken und Backpulver unterkneten, zuletzt gehackte Schokolade untermischen. Mit einem Löffel 12 Häufchen auf ein Blech setzen, leicht flach drücken und 12 bis 15 Minuten backen. Auf dem Blech abkühlen lassen.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Banane",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Erdnussmus",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Dunkle Schokolade",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "name": "Zimt",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "titel": "Joghurt-Eis am Stiel mit Beeren",
+    "kategorie": "Shake & Dessert",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 15,
+    "portionen": 6,
+    "bild": "joghurt-eis-am-stiel-mit-beeren",
+    "anleitung": "Beeren mit Honig und Vanilleextrakt grob pürieren. Joghurt unterrühren, aber nicht ganz glatt rühren, damit ein Marmormuster entsteht. In Eisformen füllen, Stiele einsetzen und mindestens 5 Stunden einfrieren. Vor dem Servieren kurz unter warmes Wasser halten.",
+    "zutaten": [
+      {
+        "name": "Griechischer Joghurt",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Beeren",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Honig",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Vanilleextrakt",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "titel": "Protein-Brownies mit Kidneybohnen",
+    "kategorie": "Shake & Dessert",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 9,
+    "bild": "protein-brownies-mit-kidneybohnen",
+    "anleitung": "Ofen auf 180 °C vorheizen. Kidneybohnen gründlich abspülen und mit Eiern, Honig, Erdnussmus und Kakao im Mixer sehr glatt pürieren. Haferflocken, Proteinpulver und Backpulver unterrühren, zuletzt gehackte Schokolade unterheben. Den Teig in eine ausgelegte Form füllen und 22 bis 25 Minuten backen. Vollständig abkühlen lassen und in 9 Stücke schneiden.",
+    "zutaten": [
+      {
+        "name": "Kidneybohnen",
+        "menge": 240,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Kakao",
+        "menge": 4,
+        "einheit": "EL"
+      },
+      {
+        "name": "Honig",
+        "menge": 4,
+        "einheit": "EL"
+      },
+      {
+        "name": "Proteinpulver",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Backpulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Dunkle Schokolade",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Erdnussmus",
+        "menge": 2,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "titel": "Protein-Cheesecake im Glas",
+    "kategorie": "Shake & Dessert",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 4,
+    "bild": "protein-cheesecake-im-glas",
+    "anleitung": "Haferflocken mit gehackten Walnüssen und Honig in der Pfanne 3 Minuten leicht rösten und als Boden in 4 Gläser drücken. Quark, Skyr, Honig, Zitronensaft und Vanilleextrakt cremig verrühren und auf dem Boden verteilen. Himbeeren leicht zerdrücken und obenauf geben. Mindestens 2 Stunden kühlen.",
+    "zutaten": [
+      {
+        "name": "Haferflocken",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Walnüsse",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Honig",
+        "menge": 4,
+        "einheit": "EL"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Skyr",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Vanilleextrakt",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Himbeeren",
+        "menge": 200,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "titel": "Schoko-Avocado-Mousse",
+    "kategorie": "Shake & Dessert",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 15,
+    "portionen": 4,
+    "bild": "schoko-avocado-mousse",
+    "anleitung": "Avocados halbieren und das Fruchtfleisch auslöffeln. Mit Kakao, Honig, Skyr, Milch und Vanilleextrakt im Mixer sehr glatt pürieren und abschmecken. In Gläser füllen und mindestens 1 Stunde kühlen. Mit Himbeeren garnieren.",
+    "zutaten": [
+      {
+        "name": "Avocado",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Kakao",
+        "menge": 4,
+        "einheit": "EL"
+      },
+      {
+        "name": "Honig",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Skyr",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Milch",
+        "menge": 100,
+        "einheit": "ml"
+      },
+      {
+        "name": "Vanilleextrakt",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Himbeeren",
+        "menge": 100,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "titel": "Skyr-Tiramisu im Glas",
+    "kategorie": "Shake & Dessert",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 4,
+    "bild": "skyr-tiramisu-im-glas",
+    "anleitung": "Kaffee abkühlen lassen. Haferflocken mit der Hälfte des Kaffees tränken und als Boden in 4 Gläser geben. Skyr, Quark, Honig und Vanilleextrakt zu einer glatten Creme verrühren. Die Hälfte der Creme auf dem Boden verteilen, mit Kakao bestäuben, dann die restliche Creme darauf schichten. Mit Kakao bestäuben und 2 Stunden kühlen.",
+    "zutaten": [
+      {
+        "name": "Skyr",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Honig",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Vanilleextrakt",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kaffee",
+        "menge": 200,
+        "einheit": "ml"
+      },
+      {
+        "name": "Kakao",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 80,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "titel": "Auberginen-Kichererbsen-Tagine mit Couscous",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 60,
+    "portionen": 4,
+    "bild": "auberginen-kichererbsen-tagine-mit-couscous",
+    "anleitung": "Auberginen würfeln und in Olivenöl rundum goldbraun anbraten, herausnehmen. Zwiebel, Knoblauch und Karotten anbraten, Gewürze kurz mitrösten. Passierte Tomaten, Brühe, Kichererbsen und Auberginen zugeben und 30 Minuten zugedeckt schmoren. Couscous mit heißem Wasser übergießen und quellen lassen. Die Tagine mit Mandeln und Petersilie bestreuen und mit Couscous servieren.",
+    "zutaten": [
+      {
+        "name": "Aubergine",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Kichererbsen",
+        "menge": 480,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Karotten",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kurkuma",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Zimt",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 200,
+        "einheit": "ml"
+      },
+      {
+        "name": "Couscous",
+        "menge": 280,
+        "einheit": "g"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Mandeln",
+        "menge": 30,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "titel": "Bulgur-Pfanne mit Hähnchen und Gemüse",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 2,
+    "bild": "bulgur-pfanne-mit-haehnchen-und-gemuese",
+    "anleitung": "Hähnchenbrust würfeln und in Olivenöl anbraten, herausnehmen. Zwiebel, Knoblauch, Paprika und Zucchini anbraten. Tomatenmark und Paprikapulver kurz mitrösten, Bulgur zugeben und mit Brühe aufgießen. Das Hähnchen zurückgeben und zugedeckt 12 Minuten garen, bis der Bulgur die Flüssigkeit aufgenommen hat. Mit Petersilie bestreuen.",
+    "zutaten": [
+      {
+        "name": "Bulgur",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Hähnchenbrust",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Tomatenmark",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 350,
+        "einheit": "ml"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "titel": "Chili sin Carne mit Bohnen und Mais",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 45,
+    "portionen": 4,
+    "bild": "chili-sin-carne-mit-bohnen-und-mais",
+    "anleitung": "Zwiebel, Knoblauch, Karotte und Paprika würfeln und in Olivenöl 8 Minuten anbraten. Tomatenmark und Gewürze kurz mitrösten. Passierte Tomaten, abgespülte Bohnen und Mais zugeben und 25 Minuten bei niedriger Hitze köcheln lassen. Mit Limettensaft abschmecken und mit einem Klecks Joghurt servieren.",
+    "zutaten": [
+      {
+        "name": "Kidneybohnen",
+        "menge": 480,
+        "einheit": "g"
+      },
+      {
+        "name": "Mais",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomatenmark",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "titel": "Gefüllte Süßkartoffeln mit Kichererbsen-Curry",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 55,
+    "portionen": 2,
+    "bild": "gefuellte-suesskartoffeln-mit-kichererbsen-curry",
+    "anleitung": "Süßkartoffeln einstechen und bei 200 °C 40 Minuten im Ofen garen. Zwiebel und Knoblauch anbraten, Currypulver kurz mitrösten. Kichererbsen, passierte Tomaten und Kokosmilch zugeben und 10 Minuten köcheln, dann Spinat unterheben. Die Süßkartoffeln aufschneiden, mit dem Curry füllen und mit Joghurt und Petersilie toppen.",
+    "zutaten": [
+      {
+        "name": "Süßkartoffel",
+        "menge": 600,
+        "einheit": "g"
+      },
+      {
+        "name": "Kichererbsen",
+        "menge": 240,
+        "einheit": "g"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 100,
+        "einheit": "ml"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Currypulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "titel": "Gefüllte Zucchini-Schiffchen mit Feta und Quinoa",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 45,
+    "portionen": 2,
+    "bild": "gefuellte-zucchini-schiffchen-mit-feta-und-quinoa",
+    "anleitung": "Quinoa kochen. Zucchini halbieren und das Fruchtfleisch mit einem Löffel aushöhlen, grob hacken. Zwiebel und Knoblauch anbraten, Zucchinifleisch und Tomatenwürfel zugeben und 5 Minuten garen. Quinoa, zerbröselten Feta, Petersilie und Oregano unterheben. Die Zucchinihälften füllen, mit Pinienkernen bestreuen und 25 Minuten bei 200 °C backen.",
+    "zutaten": [
+      {
+        "name": "Zucchini",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Quinoa",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Pinienkerne",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "titel": "Gemüse-Lasagne mit Linsensauce",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 75,
+    "portionen": 4,
+    "bild": "gemuese-lasagne-mit-linsensauce",
+    "anleitung": "Ofen auf 200 °C vorheizen. Zwiebel und Knoblauch in Olivenöl anbraten, Linsen, passierte Tomaten, Oregano und Salz zugeben und 15 Minuten köcheln. Zucchini, Aubergine und Paprika würfeln, 8 Minuten anbraten und unter die Sauce rühren. Für die Béchamel Mehl in Olivenöl anschwitzen, Milch einrühren und unter Rühren eindicken lassen, mit Muskat würzen. Sauce, Lasagneblätter und Béchamel abwechselnd in eine Form schichten. Mit Mozzarella und Parmesan bestreuen und 30 bis 35 Minuten backen. Mit Basilikum servieren.",
+    "zutaten": [
+      {
+        "name": "Lasagneblätter",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Aubergine",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Rote Linsen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 125,
+        "einheit": "g"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Milch",
+        "menge": 300,
+        "einheit": "ml"
+      },
+      {
+        "name": "Vollkornmehl",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Muskat",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Basilikum",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "titel": "Hähnchen-Curry mit Süßkartoffel und Spinat",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 4,
+    "bild": "haehnchen-curry-mit-suesskartoffel-und-spinat",
+    "anleitung": "Reis nach Packungsanleitung kochen. Zwiebel, Knoblauch und Ingwer fein hacken und in Olivenöl anbraten. Currypaste kurz mitrösten, dann die gewürfelte Hähnchenbrust zugeben und rundum anbraten. Süßkartoffelwürfel, passierte Tomaten und Kokosmilch zugeben und 15 Minuten köcheln lassen. Spinat unterheben, mit Limettensaft abschmecken und mit dem Reis servieren.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 400,
+        "einheit": "ml"
+      },
+      {
+        "name": "Rote Currypaste",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 3,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 280,
+        "einheit": "g"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "titel": "Hähnchen-Gemüse-Quesadillas",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "haehnchen-gemuese-quesadillas",
+    "anleitung": "Hähnchenbrust in dünne Streifen schneiden und mit Paprikapulver und Kreuzkümmel würzen. In Olivenöl anbraten, dann Paprika-, Zwiebelstreifen und Mais zugeben und 6 Minuten mitbraten. Die Füllung auf zwei Wraps verteilen, mit Mozzarella bestreuen und mit je einem zweiten Wrap abdecken. Von beiden Seiten in der Pfanne knusprig braten. Mit Joghurt und Limettensaft servieren.",
+    "zutaten": [
+      {
+        "name": "Vollkorn-Wrap",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Hähnchenbrust",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Mais",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "titel": "Hähnchen-Gyros mit Tzatziki und Ofenkartoffeln",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 60,
+    "portionen": 3,
+    "bild": "haehnchen-gyros-mit-tzatziki-und-ofenkartoffeln",
+    "anleitung": "Ofen auf 220 °C vorheizen. Kartoffeln in Spalten schneiden, mit Olivenöl und Salz mischen und 35 Minuten backen. Hähnchenbrust in dünne Streifen schneiden und mit Paprikapulver, Oregano, Zitronensaft, Olivenöl und 2 Knoblauchzehen marinieren. Für das Tzatziki Joghurt mit Gurke und einer Knoblauchzehe verrühren. Das Fleisch 8 Minuten scharf anbraten und mit Tomaten, Zwiebeln, Tzatziki und den Kartoffeln servieren.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 450,
+        "einheit": "g"
+      },
+      {
+        "name": "Kartoffeln",
+        "menge": 600,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 3,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Oregano",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "titel": "Hähnchen-Reis-Bowl mit Brokkoli",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 1,
+    "bild": "haehnchen-reis-bowl-mit-brokkoli",
+    "anleitung": "Reis nach Packungsanleitung kochen. Hähnchenbrust in Würfel schneiden und in Olivenöl mit Knoblauch anbraten. Brokkoli in Röschen 4 Minuten mitgaren, mit Sojasauce ablöschen und alles auf dem Reis anrichten.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 70,
+        "einheit": "g"
+      },
+      {
+        "name": "Brokkoli",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "titel": "Hähnchen-Wrap mit Salat",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 15,
+    "portionen": 2,
+    "bild": "haehnchen-wrap-mit-salat",
+    "anleitung": "Hähnchenbrust in Streifen schneiden, mit Paprikapulver würzen und durchbraten. Wraps mit Joghurt bestreichen, mit Salat, Tomaten und Hähnchen belegen und einrollen.",
+    "zutaten": [
+      {
+        "name": "Vollkorn-Wrap",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Hähnchenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Blattsalat",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "titel": "Hähnchensalat mit Joghurt-Dressing",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 1,
+    "bild": "haehnchensalat-mit-joghurt-dressing",
+    "anleitung": "Hähnchenbrust in Olivenöl durchbraten und in Scheiben schneiden. Salat, Gurke und Tomaten mischen. Joghurt mit Zitronensaft verrühren, über den Salat geben und das Hähnchen darauf anrichten.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Blattsalat",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "titel": "Kichererbsen-Curry mit Spinat",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 2,
+    "bild": "kichererbsen-curry-mit-spinat",
+    "anleitung": "Zwiebel und Knoblauch in einem Topf anschwitzen, Currypulver kurz mitrösten. Kichererbsen, passierte Tomaten und Kokosmilch zugeben und 10 Minuten köcheln lassen. Spinat unterrühren und zusammenfallen lassen.",
+    "zutaten": [
+      {
+        "name": "Kichererbsen",
+        "menge": 240,
+        "einheit": "g"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 200,
+        "einheit": "ml"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Currypulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 60,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "titel": "Lachs-Bowl mit Edamame",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 25,
+    "portionen": 1,
+    "bild": "lachs-bowl-mit-edamame",
+    "anleitung": "Reis kochen. Lachs in einer Pfanne je Seite 3 bis 4 Minuten braten. Edamame 5 Minuten in Salzwasser garen. Alles mit Gurkenscheiben im Schälchen anrichten, mit Sojasauce beträufeln und Sesam darüberstreuen.",
+    "zutaten": [
+      {
+        "name": "Lachsfilet",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 70,
+        "einheit": "g"
+      },
+      {
+        "name": "Edamame",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Sesam",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "titel": "Linsen-Dal mit Spinat",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 30,
+    "portionen": 4,
+    "bild": "linsen-dal-mit-spinat",
+    "anleitung": "Zwiebel, Knoblauch und Ingwer fein hacken und in Olivenöl glasig dünsten. Kurkuma, Garam Masala und Kreuzkümmel kurz mitrösten. Linsen, passierte Tomaten, Brühe und Kokosmilch zugeben und 15 bis 18 Minuten köcheln, bis die Linsen zerfallen. Spinat unterrühren und mit Zitronensaft abschmecken. Mit Reis servieren.",
+    "zutaten": [
+      {
+        "name": "Rote Linsen",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 200,
+        "einheit": "ml"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 3,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Kurkuma",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Garam Masala",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 600,
+        "einheit": "ml"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 280,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "titel": "Pad Thai mit Garnelen",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 40,
+    "portionen": 2,
+    "bild": "pad-thai-mit-garnelen",
+    "anleitung": "Reisnudeln nach Packungsanleitung einweichen und abgießen. Für die Sauce Sojasauce, Erdnussmus, Limettensaft, Honig und Sesamöl verrühren. Garnelen in Olivenöl 2 Minuten braten und herausnehmen. Knoblauch, Karotten und Pak Choi anbraten, Nudeln und Sauce zugeben und 3 Minuten schwenken. Zur Seite schieben, die Eier in die Pfanne geben und stocken lassen, dann alles mit den Garnelen vermengen und mit Chiliflocken servieren.",
+    "zutaten": [
+      {
+        "name": "Reisnudeln",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Garnelen",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Pak Choi",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Erdnussmus",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Sesamöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Chiliflocken",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "titel": "Putenstreifen mit Süßkartoffel",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 1,
+    "bild": "putenstreifen-mit-suesskartoffel",
+    "anleitung": "Süßkartoffel würfeln und mit Olivenöl, Paprikapulver und Salz im Ofen bei 200 °C etwa 20 Minuten backen. Putenbrust in Streifen schneiden und mit der Paprika in einer Pfanne durchbraten. Alles zusammen servieren.",
+    "zutaten": [
+      {
+        "name": "Putenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "titel": "Quinoa-Bowl mit Kichererbsen",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 1,
+    "bild": "quinoa-bowl-mit-kichererbsen",
+    "anleitung": "Quinoa nach Packungsanleitung kochen und abkühlen lassen. Gurke und Tomaten würfeln, mit Kichererbsen und zerbröseltem Feta auf der Quinoa anrichten. Mit Zitronensaft und Olivenöl beträufeln.",
+    "zutaten": [
+      {
+        "name": "Quinoa",
+        "menge": 70,
+        "einheit": "g"
+      },
+      {
+        "name": "Kichererbsen",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "titel": "Rinderhack-Gemüse-Pfanne",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 2,
+    "bild": "rinderhack-gemuese-pfanne",
+    "anleitung": "Rinderhack in einer Pfanne krümelig anbraten. Zwiebel, Zucchini und Paprika in Stücken zugeben und 8 Minuten mitgaren. Tomatenmark einrühren und mit Salz und Pfeffer abschmecken.",
+    "zutaten": [
+      {
+        "name": "Rinderhack",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomatenmark",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Pfeffer",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "titel": "Rote-Linsen-Gemüse-Pfanne",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 2,
+    "bild": "rote-linsen-gemuese-pfanne",
+    "anleitung": "Zwiebel, Zucchini und Paprika würfeln und in einem Topf anbraten. Tomatenmark und Kreuzkümmel kurz mitrösten, Linsen und Brühe zugeben und 12 Minuten köcheln lassen, bis die Linsen weich sind.",
+    "zutaten": [
+      {
+        "name": "Rote Linsen",
+        "menge": 160,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomatenmark",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 600,
+        "einheit": "ml"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "titel": "Rotes Thai-Curry mit Tofu und Gemüse",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 3,
+    "bild": "rotes-thai-curry-mit-tofu-und-gemuese",
+    "anleitung": "Reis kochen. Tofu abtropfen lassen, würfeln und in Olivenöl rundum knusprig braten, dann herausnehmen. Zwiebel und Ingwer anbraten, Currypaste kurz mitrösten und mit Kokosmilch ablöschen. Paprika, Zucchini und Brokkoli zugeben und 10 Minuten bissfest köcheln. Tofu zurückgeben, mit Sojasauce und Limettensaft abschmecken und mit Koriander und Reis servieren.",
+    "zutaten": [
+      {
+        "name": "Tofu",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Rote Currypaste",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 400,
+        "einheit": "ml"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Brokkoli",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 210,
+        "einheit": "g"
+      },
+      {
+        "name": "Koriander",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "titel": "Spaghetti Bolognese mit Linsen",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 70,
+    "portionen": 4,
+    "bild": "spaghetti-bolognese-mit-linsen",
+    "anleitung": "Zwiebel, Karotten, Staudensellerie und Knoblauch fein würfeln und in Olivenöl 8 Minuten anbraten. Rinderhack zugeben und krümelig braten. Tomatenmark kurz mitrösten, dann Linsen, passierte Tomaten und Oregano zugeben. Die Sauce 40 Minuten bei niedriger Hitze köcheln lassen und zwischendurch umrühren. Nudeln kochen, mit der Sauce mischen und mit Parmesan servieren.",
+    "zutaten": [
+      {
+        "name": "Vollkornnudeln",
+        "menge": 320,
+        "einheit": "g"
+      },
+      {
+        "name": "Rinderhack",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Rote Linsen",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Karotten",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Staudensellerie",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Tomatenmark",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 30,
+        "einheit": "g"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "titel": "Thunfisch-Quinoa-Frikadellen mit Tzatziki",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 3,
+    "bild": "thunfisch-quinoa-frikadellen-mit-tzatziki",
+    "anleitung": "Quinoa kochen und abkühlen lassen. Thunfisch abtropfen lassen, mit Quinoa, Eiern, fein gehackter Zwiebel, Petersilie, Zitronensaft und Paprikapulver vermengen. Frikadellen formen und in Olivenöl je Seite 4 Minuten goldbraun braten. Für das Tzatziki Joghurt mit geriebener Gurke, Knoblauch und Dill verrühren.",
+    "zutaten": [
+      {
+        "name": "Thunfisch",
+        "menge": 2,
+        "einheit": "Dose"
+      },
+      {
+        "name": "Quinoa",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Dill",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "titel": "Vollkornnudeln mit Thunfisch-Tomatensauce",
+    "kategorie": "Mittagessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 15,
+    "portionen": 1,
+    "bild": "vollkornnudeln-mit-thunfisch-tomatensauce",
+    "anleitung": "Nudeln nach Packungsanleitung kochen. Knoblauch in Olivenöl anschwitzen, passierte Tomaten und Oregano zugeben und 5 Minuten köcheln. Thunfisch unterheben und die Nudeln mit der Sauce mischen.",
+    "zutaten": [
+      {
+        "name": "Vollkornnudeln",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Thunfisch",
+        "menge": 1,
+        "einheit": "Dose"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "titel": "Auberginen-Hack-Auflauf mit Mozzarella",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 60,
+    "portionen": 3,
+    "bild": "auberginen-hack-auflauf-mit-mozzarella",
+    "anleitung": "Ofen auf 200 °C vorheizen. Auberginen in Scheiben schneiden, mit Olivenöl bestreichen und 15 Minuten backen. Zwiebel und Knoblauch anbraten, Rinderhack krümelig braten, passierte Tomaten und Oregano zugeben und 15 Minuten köcheln lassen. Auberginen und Hacksauce abwechselnd in eine Form schichten, mit Mozzarellascheiben belegen und 20 Minuten überbacken. Mit Basilikum servieren.",
+    "zutaten": [
+      {
+        "name": "Aubergine",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Rinderhack",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 125,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Basilikum",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "titel": "Blumenkohl-Curry mit Kichererbsen",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 3,
+    "bild": "blumenkohl-curry-mit-kichererbsen",
+    "anleitung": "Reis kochen. Blumenkohl in kleine Röschen teilen. Zwiebel, Knoblauch und Ingwer in Olivenöl anbraten, Currypulver und Kurkuma kurz mitrösten. Blumenkohl, Kichererbsen, passierte Tomaten und Kokosmilch zugeben und 15 Minuten köcheln, bis der Blumenkohl bissfest ist. Spinat unterheben, mit Limettensaft abschmecken und mit Reis servieren.",
+    "zutaten": [
+      {
+        "name": "Blumenkohl",
+        "menge": 600,
+        "einheit": "g"
+      },
+      {
+        "name": "Kichererbsen",
+        "menge": 240,
+        "einheit": "g"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 400,
+        "einheit": "ml"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Currypulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kurkuma",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 210,
+        "einheit": "g"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "titel": "Chili con Carne",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 80,
+    "portionen": 4,
+    "bild": "chili-con-carne",
+    "anleitung": "Zwiebeln, Knoblauch und Paprika würfeln. Rinderhack in einem großen Topf scharf anbraten, dann Zwiebeln, Knoblauch und Paprika zugeben. Tomatenmark und Gewürze kurz mitrösten. Passierte Tomaten, Bohnen und Mais zugeben, zugedeckt 45 Minuten köcheln lassen und gelegentlich rühren. Mit dunkler Schokolade verfeinern und mit Joghurt servieren.",
+    "zutaten": [
+      {
+        "name": "Rinderhack",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Kidneybohnen",
+        "menge": 480,
+        "einheit": "g"
+      },
+      {
+        "name": "Mais",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Tomatenmark",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Chiliflocken",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Dunkle Schokolade",
+        "menge": 10,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "titel": "Garnelen-Curry mit Pak Choi",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "garnelen-curry-mit-pak-choi",
+    "anleitung": "Reis kochen. Ingwer und Paprika in Olivenöl anbraten, Currypaste kurz mitrösten und mit Kokosmilch ablöschen. 8 Minuten köcheln lassen, dann Pak Choi und Garnelen zugeben und 4 Minuten garen, bis die Garnelen rosa sind. Mit Sojasauce und Limettensaft abschmecken und mit dem Reis servieren.",
+    "zutaten": [
+      {
+        "name": "Garnelen",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 400,
+        "einheit": "ml"
+      },
+      {
+        "name": "Rote Currypaste",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Pak Choi",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 140,
+        "einheit": "g"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "titel": "Garnelen-Risotto mit Spargel",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 45,
+    "portionen": 2,
+    "bild": "garnelen-risotto-mit-spargel",
+    "anleitung": "Brühe in einem Topf heiß halten. Zwiebel und Knoblauch in Olivenöl glasig dünsten, Risottoreis zugeben und 2 Minuten mitbraten. Nach und nach die Brühe kellenweise zugeben und unter Rühren etwa 20 Minuten garen. Spargel in Stücken nach 10 Minuten zugeben. Garnelen separat 3 Minuten braten und zum Schluss mit Parmesan, Zitronensaft und den Garnelen unterheben.",
+    "zutaten": [
+      {
+        "name": "Risottoreis",
+        "menge": 160,
+        "einheit": "g"
+      },
+      {
+        "name": "Garnelen",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Spargel",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 700,
+        "einheit": "ml"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "titel": "Garnelen-Zoodles mit Knoblauch",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 15,
+    "portionen": 1,
+    "bild": "garnelen-zoodles-mit-knoblauch",
+    "anleitung": "Zucchini mit dem Spiralschneider zu Nudeln drehen. Knoblauch in Olivenöl anbraten, Garnelen 2 bis 3 Minuten je Seite braten. Zoodles 2 Minuten mitgaren, mit Zitronensaft und Chiliflocken abschmecken.",
+    "zutaten": [
+      {
+        "name": "Garnelen",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitrone",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Chiliflocken",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "titel": "Gebackener Feta mit Tomaten",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 1,
+    "bild": "gebackener-feta-mit-tomaten",
+    "anleitung": "Feta und Tomatenstücke in eine Auflaufform geben, mit Olivenöl, Oregano und gehacktem Knoblauch würzen und bei 200 °C etwa 15 Minuten backen. Mit Vollkornbrot servieren.",
+    "zutaten": [
+      {
+        "name": "Feta",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Vollkornbrot",
+        "menge": 1,
+        "einheit": "Scheiben"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "titel": "Gefüllte Hähnchenbrust mit Spinat und Feta",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 50,
+    "portionen": 2,
+    "bild": "gefuellte-haehnchenbrust-mit-spinat-und-feta",
+    "anleitung": "Ofen auf 200 °C vorheizen. Spinat mit Knoblauch in Olivenöl zusammenfallen lassen, abkühlen lassen und mit zerbröseltem Feta mischen. Hähnchenbrüste seitlich zu einer Tasche einschneiden, füllen und mit Zahnstochern verschließen. Mit Paprikapulver würzen, rundum anbraten und 20 Minuten im Ofen garen. Kartoffeln in Spalten dazu backen und das Fleisch mit Zitronensaft beträufeln.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kartoffeln",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "titel": "Gefüllte Paprika mit Putenhack und Quinoa",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 60,
+    "portionen": 4,
+    "bild": "gefuellte-paprika-mit-putenhack-und-quinoa",
+    "anleitung": "Ofen auf 200 °C vorheizen. Quinoa kochen. Von den Paprika einen Deckel abschneiden und die Kerne entfernen. Zwiebel und Knoblauch anbraten, Putenhack krümelig braten, mit Paprikapulver und Oregano würzen. Quinoa und die Hälfte der Tomaten unterheben, die Paprika füllen und in eine Form stellen. Restliche Tomaten darum gießen, Mozzarella darauf verteilen und 35 Minuten backen. Mit Petersilie servieren.",
+    "zutaten": [
+      {
+        "name": "Paprika",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Putenhack",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "titel": "Gefüllter Kürbis mit Quinoa, Feta und Pilzen",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 65,
+    "portionen": 2,
+    "bild": "gefuellter-kuerbis-mit-quinoa-feta-und-pilzen",
+    "anleitung": "Ofen auf 200 °C vorheizen. Kürbis halbieren, Kerne entfernen und 25 Minuten vorgaren. Quinoa in Brühe kochen. Zwiebel, Knoblauch und Champignons anbraten, mit Quinoa, zerbröseltem Feta und Petersilie mischen. Die Kürbishälften füllen, mit Kürbiskernen bestreuen und weitere 20 Minuten backen.",
+    "zutaten": [
+      {
+        "name": "Kürbis",
+        "menge": 800,
+        "einheit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Champignons",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Kürbiskerne",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 200,
+        "einheit": "ml"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "titel": "Hähnchen-Brokkoli-Auflauf mit Käsekruste",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 45,
+    "portionen": 3,
+    "bild": "haehnchen-brokkoli-auflauf-mit-kaesekruste",
+    "anleitung": "Ofen auf 200 °C vorheizen. Brokkoli in Röschen 3 Minuten blanchieren. Hähnchenbrust würfeln und mit Zwiebel und Knoblauch in Olivenöl anbraten. Joghurt mit Eiern, Muskat, Salz und der Hälfte des Parmesans verrühren. Hähnchen und Brokkoli in eine Form geben, die Sauce darübergießen, mit Mozzarella und restlichem Parmesan bestreuen und 25 Minuten backen.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 450,
+        "einheit": "g"
+      },
+      {
+        "name": "Brokkoli",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Muskat",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "titel": "Hähnchen-Burrito-Bowl",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 1,
+    "bild": "haehnchen-burrito-bowl",
+    "anleitung": "Reis kochen. Hähnchen in Streifen mit Paprikapulver anbraten. Reis, Mais, Kidneybohnen, Tomatenwürfel und Hähnchen in einer Schüssel anrichten und mit Joghurt toppen.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Mais",
+        "menge": 50,
+        "einheit": "g"
+      },
+      {
+        "name": "Kidneybohnen",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "titel": "Hähnchen-Gemüse-Pfanne",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 1,
+    "bild": "haehnchen-gemuese-pfanne",
+    "anleitung": "Hähnchenbrust in Streifen schneiden und in Olivenöl anbraten. Paprika, Zucchini und Zwiebel zugeben, 6 bis 8 Minuten mitbraten und mit Sojasauce ablöschen.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 180,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "titel": "Hähnchen-Tikka-Masala mit Vollkornreis",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 55,
+    "portionen": 4,
+    "bild": "haehnchen-tikka-masala-mit-vollkornreis",
+    "anleitung": "Hähnchenbrust würfeln und mit Joghurt, Paprikapulver, Garam Masala und etwas Salz mindestens 15 Minuten marinieren. Zwiebeln, Knoblauch und Ingwer fein hacken und in Olivenöl anbraten, Kurkuma kurz mitrösten. Passierte Tomaten zugeben und 10 Minuten köcheln lassen. Das Hähnchen in einer separaten Pfanne scharf anbraten und mit der Kokosmilch in die Sauce geben. 15 Minuten garen und mit Koriander und Reis servieren.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 600,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 3,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 100,
+        "einheit": "ml"
+      },
+      {
+        "name": "Garam Masala",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kurkuma",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 280,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Koriander",
+        "menge": 2,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "titel": "Hähnchen-Zucchini-Auflauf",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 35,
+    "portionen": 2,
+    "bild": "haehnchen-zucchini-auflauf",
+    "anleitung": "Hähnchenbrust in Stücke schneiden, kurz anbraten und mit Zucchinischeiben in eine Auflaufform geben. Passierte Tomaten mit Knoblauch und Oregano würzen, darübergießen, Mozzarella darauf verteilen und 20 Minuten bei 200 °C backen.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "titel": "Hähnchenspieße mit Quark-Dip",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 2,
+    "bild": "haehnchenspiesse-mit-quark-dip",
+    "anleitung": "Hähnchen, Paprika und Zucchini in Stücke schneiden, mit Olivenöl und Paprikapulver mischen und auf Spieße stecken. Je Seite 5 bis 6 Minuten braten. Magerquark mit Zitronensaft und gepresstem Knoblauch zum Dip verrühren.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "titel": "Hähnchenspieße vom Blech mit Kräuter-Bulgur",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 2,
+    "bild": "haehnchenspiesse-vom-blech-mit-kraeuter-bulgur",
+    "anleitung": "Ofen auf 220 °C vorheizen. Hähnchenbrust, Zucchini, Paprika und Zwiebel in Stücke schneiden, mit Olivenöl, Paprikapulver, Knoblauch und der Hälfte des Zitronensafts marinieren und auf Spieße stecken. 20 Minuten backen und einmal wenden. Bulgur mit heißem Wasser übergießen und 10 Minuten quellen lassen. Mit Petersilie, restlichem Zitronensaft und Olivenöl mischen und zu den Spießen servieren.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 350,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Bulgur",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "titel": "Kürbis-Linsen-Suppe mit Ingwer",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 35,
+    "portionen": 4,
+    "bild": "kuerbis-linsen-suppe-mit-ingwer",
+    "anleitung": "Zwiebel, Knoblauch und Ingwer in Olivenöl anbraten, Currypulver kurz mitrösten. Kürbiswürfel und Linsen zugeben, mit Brühe aufgießen und 20 Minuten köcheln lassen, bis alles weich ist. Mit dem Stabmixer pürieren, Kokosmilch einrühren und mit Zitronensaft abschmecken. Mit gerösteten Kürbiskernen servieren.",
+    "zutaten": [
+      {
+        "name": "Kürbis",
+        "menge": 600,
+        "einheit": "g"
+      },
+      {
+        "name": "Rote Linsen",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 1000,
+        "einheit": "ml"
+      },
+      {
+        "name": "Kokosmilch",
+        "menge": 100,
+        "einheit": "ml"
+      },
+      {
+        "name": "Currypulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Kürbiskerne",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "titel": "Lachs mit Kräuterkruste, Spargel und Ofenkartoffeln",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 50,
+    "portionen": 2,
+    "bild": "lachs-mit-kraeuterkruste-spargel-und-ofenkartoffeln",
+    "anleitung": "Ofen auf 200 °C vorheizen. Kartoffeln in Spalten mit Olivenöl 30 Minuten backen. Brot im Mixer zu Bröseln mahlen und mit Petersilie, Dill, Olivenöl und Salz mischen. Lachs mit Senf bestreichen und die Kräuterbrösel darauf andrücken. Spargel schälen, auf das Blech legen und den Lachs 15 Minuten mitbacken. Mit Zitronenspalten servieren.",
+    "zutaten": [
+      {
+        "name": "Lachsfilet",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Spargel",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Kartoffeln",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Vollkornbrot",
+        "menge": 2,
+        "einheit": "Scheiben"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Dill",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Senf",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitrone",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "titel": "Moussaka mit Linsen und Auberginen",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 80,
+    "portionen": 4,
+    "bild": "moussaka-mit-linsen-und-auberginen",
+    "anleitung": "Ofen auf 200 °C vorheizen. Auberginenscheiben mit Olivenöl bestreichen und 20 Minuten backen. Zwiebel und Knoblauch anbraten, Linsen, passierte Tomaten, Zimt und Oregano zugeben und 15 Minuten köcheln lassen. Quark mit Eiern, Parmesan und Muskat zu einer Creme verrühren. Auberginen und Linsensauce abwechselnd in eine Form schichten, die Creme darauf verteilen und 30 Minuten backen, bis die Oberfläche goldbraun ist.",
+    "zutaten": [
+      {
+        "name": "Aubergine",
+        "menge": 3,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Linsen",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Zimt",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Muskat",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "titel": "Ofenfisch auf Gemüsebett",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 2,
+    "bild": "ofenfisch-auf-gemuesebett",
+    "anleitung": "Ofen auf 200 °C vorheizen. Kartoffeln in dünne Scheiben schneiden und 10 Minuten vorbacken. Zucchini, Paprika, Fenchel, Zwiebel und Tomaten in Stücke schneiden, mit Olivenöl, Thymian und Salz mischen und zu den Kartoffeln geben. Den Fisch darauflegen, mit Zitronenscheiben belegen und 20 Minuten backen.",
+    "zutaten": [
+      {
+        "name": "Kabeljaufilet",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomaten",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Fenchel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Kartoffeln",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitrone",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Thymian",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "titel": "Ofenlachs mit Brokkoli",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 1,
+    "bild": "ofenlachs-mit-brokkoli",
+    "anleitung": "Ofen auf 200 °C vorheizen. Lachs und Brokkoliröschen auf ein Blech legen, mit Olivenöl, gehacktem Knoblauch, Salz und Pfeffer würzen und 15 bis 18 Minuten backen. Mit Zitronenspalten servieren.",
+    "zutaten": [
+      {
+        "name": "Lachsfilet",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Brokkoli",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Zitrone",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Pfeffer",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "titel": "Pak-Choi-Hähnchen-Pfanne mit Ingwer",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 2,
+    "bild": "pak-choi-haehnchen-pfanne-mit-ingwer",
+    "anleitung": "Reis nach Packungsanleitung kochen. Hähnchenbrust in Streifen schneiden und in Olivenöl scharf anbraten. Knoblauch und Ingwer zugeben und 1 Minute mitbraten. Pak Choi in Stücken zugeben, mit Sojasauce, Honig und Sesamöl ablöschen und 4 Minuten garen. Mit Sesam bestreut auf dem Reis servieren.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Pak Choi",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 2,
+        "einheit": "TL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Sesamöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 140,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Sesam",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "titel": "Putenbrust mit Gemüsereis",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 1,
+    "bild": "putenbrust-mit-gemuesereis",
+    "anleitung": "Reis kochen. Putenbrust würfeln und in Öl anbraten. Karotte in Würfeln und Erbsen zugeben, 5 Minuten garen. Mit dem Reis mischen und mit Sojasauce abschmecken.",
+    "zutaten": [
+      {
+        "name": "Putenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 70,
+        "einheit": "g"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Erbsen",
+        "menge": 60,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "titel": "Putenschnitzel in Haferflockenpanade mit Gemüse-Quinoa",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 2,
+    "bild": "putenschnitzel-in-haferflockenpanade-mit-gemuese-quinoa",
+    "anleitung": "Quinoa kochen. Putenbrust in zwei Schnitzel schneiden und dünn klopfen. Haferflocken im Mixer grob mahlen und mit Parmesan und Paprikapulver mischen. Schnitzel erst in verquirltem Ei, dann in der Panade wenden und in Olivenöl je Seite 4 Minuten goldbraun braten. Zucchini und Karotte würfeln, anbraten und unter die Quinoa mischen. Mit Zitrone servieren.",
+    "zutaten": [
+      {
+        "name": "Putenbrust",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Haferflocken",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Quinoa",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zitrone",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "titel": "Rinder-Gemüse-Wok mit Reisnudeln",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "rinder-gemuese-wok-mit-reisnudeln",
+    "anleitung": "Reisnudeln nach Packungsanleitung vorbereiten. Rindersteak in dünne Streifen schneiden und im Wok in Olivenöl 2 Minuten scharf anbraten, herausnehmen. Brokkoli, Paprika und Karotte anbraten, Knoblauch und Ingwer zugeben. Nudeln und Fleisch zurückgeben, mit Sojasauce, Honig und Sesamöl ablöschen und alles 2 Minuten schwenken.",
+    "zutaten": [
+      {
+        "name": "Rindersteak",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Reisnudeln",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Brokkoli",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Sesamöl",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "titel": "Rindersteak mit Ofengemüse und Kräuterquark",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 45,
+    "portionen": 2,
+    "bild": "rindersteak-mit-ofengemuese-und-kraeuterquark",
+    "anleitung": "Ofen auf 220 °C vorheizen. Süßkartoffel, Paprika und Zucchini in Stücke schneiden, mit Olivenöl, Knoblauch und Rosmarin mischen und 25 Minuten rösten. Steaks 30 Minuten vor dem Braten aus dem Kühlschrank nehmen, trocken tupfen und salzen. In einer sehr heißen Pfanne je Seite 2 bis 3 Minuten braten und 5 Minuten ruhen lassen. Quark mit Schnittlauch, Salz und Pfeffer verrühren und alles zusammen servieren.",
+    "zutaten": [
+      {
+        "name": "Rindersteak",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zucchini",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Rosmarin",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Magerquark",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Schnittlauch",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Pfeffer",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "titel": "Seelachs auf Spinat mit Kartoffeln",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 1,
+    "bild": "seelachs-auf-spinat-mit-kartoffeln",
+    "anleitung": "Kartoffeln in Würfeln 15 Minuten kochen. Seelachs in Olivenöl je Seite 3 bis 4 Minuten braten. Spinat mit Knoblauch in einer zweiten Pfanne zusammenfallen lassen. Mit Zitronensaft beträufeln und anrichten.",
+    "zutaten": [
+      {
+        "name": "Seelachsfilet",
+        "menge": 180,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Kartoffeln",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Zitrone",
+        "menge": 0.5,
+        "einheit": "Stk"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "titel": "Shakshuka",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 25,
+    "portionen": 2,
+    "bild": "shakshuka",
+    "anleitung": "Zwiebel, Paprika und Knoblauch in Olivenöl anbraten. Gewürze und passierte Tomaten zugeben, 8 Minuten köcheln lassen. Mulden formen, Eier hineinschlagen und zugedeckt 6 bis 8 Minuten stocken lassen.",
+    "zutaten": [
+      {
+        "name": "Eier",
+        "menge": 4,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Paprikapulver",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Kreuzkümmel",
+        "menge": 0.5,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "titel": "Shepherd's Pie mit Süßkartoffelpüree",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 70,
+    "portionen": 4,
+    "bild": "shepherd-s-pie-mit-suesskartoffelpueree",
+    "anleitung": "Süßkartoffeln schälen, würfeln, weich kochen und mit Muskat und Salz zu Püree stampfen. Zwiebel und Karotten anbraten, Rinderhack krümelig braten. Tomatenmark und Thymian zugeben, mit Brühe ablöschen, Erbsen unterheben und 10 Minuten einkochen. Die Hackmasse in eine Form geben, mit dem Püree bedecken und mit einer Gabel Muster ziehen. Mit Parmesan bestreuen und 25 Minuten bei 200 °C backen.",
+    "zutaten": [
+      {
+        "name": "Rinderhack",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Süßkartoffel",
+        "menge": 700,
+        "einheit": "g"
+      },
+      {
+        "name": "Karotten",
+        "menge": 2,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Erbsen",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Tomatenmark",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Gemüsebrühe",
+        "menge": 200,
+        "einheit": "ml"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Muskat",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Thymian",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "titel": "Spinat-Cannelloni mit Hüttenkäse",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "schwer",
+    "zubereitungszeit": 70,
+    "portionen": 4,
+    "bild": "spinat-cannelloni-mit-huettenkaese",
+    "anleitung": "Ofen auf 200 °C vorheizen. Zwiebel und Knoblauch anbraten, Spinat zugeben und zusammenfallen lassen, gut ausdrücken und hacken. Mit Hüttenkäse, Ei, Parmesan und Muskat mischen. Lasagneblätter kurz in heißem Wasser weich werden lassen, mit der Füllung belegen und aufrollen. Passierte Tomaten in eine Form gießen, die Röllchen darauflegen, mit Mozzarella bestreuen und 30 Minuten backen.",
+    "zutaten": [
+      {
+        "name": "Lasagneblätter",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Babyspinat",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Hüttenkäse",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Eier",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 500,
+        "einheit": "g"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 2,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Muskat",
+        "menge": 1,
+        "einheit": "Prise"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "titel": "Thunfisch-Nudel-Auflauf",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 3,
+    "bild": "thunfisch-nudel-auflauf",
+    "anleitung": "Ofen auf 200 °C vorheizen. Nudeln 2 Minuten kürzer als angegeben kochen. Zwiebel und Knoblauch anbraten, passierte Tomaten und Oregano zugeben und 8 Minuten köcheln lassen. Nudeln, Thunfisch und Mais in eine Form geben, die Sauce darübergießen, mit Mozzarella bestreuen und 20 Minuten überbacken.",
+    "zutaten": [
+      {
+        "name": "Vollkornnudeln",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Thunfisch",
+        "menge": 2,
+        "einheit": "Dose"
+      },
+      {
+        "name": "Passierte Tomaten",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Mais",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Mozzarella",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Zwiebel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Oregano",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "titel": "Tofu-Gemüse-Pfanne mit Reis",
+    "kategorie": "Abendessen",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 25,
+    "portionen": 1,
+    "bild": "tofu-gemuese-pfanne-mit-reis",
+    "anleitung": "Reis kochen. Tofu würfeln und in Öl knusprig anbraten. Brokkoli und Paprika zugeben, 5 Minuten braten und mit Sojasauce und Ingwer abschmecken. Auf dem Reis servieren.",
+    "zutaten": [
+      {
+        "name": "Tofu",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Brokkoli",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Vollkornreis",
+        "menge": 70,
+        "einheit": "g"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Ingwer",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "titel": "Asiatischer Nudelsalat mit Tofu und Erdnussdressing",
+    "kategorie": "Salat",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "asiatischer-nudelsalat-mit-tofu-und-erdnussdressing",
+    "anleitung": "Tofu würfeln und in Olivenöl knusprig anbraten. Reisnudeln vorbereiten, abschrecken und abtropfen lassen. Karotte, Gurke und Paprika in feine Streifen schneiden. Für das Dressing Erdnussmus, Sojasauce, Limettensaft und Honig glatt rühren. Alles vermengen und mit Sesam bestreuen.",
+    "zutaten": [
+      {
+        "name": "Reisnudeln",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Tofu",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Karotten",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Paprika",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Erdnussmus",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Sojasauce",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Honig",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Sesam",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "titel": "Hähnchen-Caesar-Salat (leicht)",
+    "kategorie": "Salat",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 20,
+    "portionen": 1,
+    "bild": "haehnchen-caesar-salat-leicht",
+    "anleitung": "Hähnchenbrust braten und in Scheiben schneiden. Joghurt, Zitronensaft, Senf und gepressten Knoblauch zum Dressing verrühren. Romanasalat, Hähnchen und gewürfeltes, getoastetes Brot mischen, Dressing darübergeben und mit Parmesan bestreuen.",
+    "zutaten": [
+      {
+        "name": "Hähnchenbrust",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Romanasalat",
+        "menge": 100,
+        "einheit": "g"
+      },
+      {
+        "name": "Naturjoghurt",
+        "menge": 3,
+        "einheit": "EL"
+      },
+      {
+        "name": "Parmesan",
+        "menge": 20,
+        "einheit": "g"
+      },
+      {
+        "name": "Zitronensaft",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Knoblauch",
+        "menge": 1,
+        "einheit": "Zehen"
+      },
+      {
+        "name": "Vollkornbrot",
+        "menge": 1,
+        "einheit": "Scheiben"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "titel": "Quinoa-Hähnchen-Salat mit Mango",
+    "kategorie": "Salat",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 30,
+    "portionen": 2,
+    "bild": "quinoa-haehnchen-salat-mit-mango",
+    "anleitung": "Quinoa kochen und abkühlen lassen. Hähnchenbrust in Olivenöl durchbraten, abkühlen lassen und in Scheiben schneiden. Mango, Avocado und Gurke würfeln, Zwiebel in feine Ringe schneiden. Alles mit Limettensaft und Olivenöl anmachen und mit Petersilie bestreuen.",
+    "zutaten": [
+      {
+        "name": "Quinoa",
+        "menge": 120,
+        "einheit": "g"
+      },
+      {
+        "name": "Hähnchenbrust",
+        "menge": 250,
+        "einheit": "g"
+      },
+      {
+        "name": "Mango",
+        "menge": 150,
+        "einheit": "g"
+      },
+      {
+        "name": "Avocado",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Gurke",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Limette",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Petersilie",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "titel": "Rote-Bete-Salat mit Feta und Walnüssen",
+    "kategorie": "Salat",
+    "schwierigkeitsgrad": "leicht",
+    "zubereitungszeit": 20,
+    "portionen": 2,
+    "bild": "rote-bete-salat-mit-feta-und-walnuessen",
+    "anleitung": "Rote Bete in dünne Scheiben schneiden. Apfel in feine Stifte schneiden. Walnüsse in einer Pfanne ohne Fett kurz rösten. Aus Balsamico, Senf und Olivenöl ein Dressing rühren. Rucola mit Roter Bete und Apfel anrichten, mit dem Dressing beträufeln und Feta und Walnüsse darüber verteilen.",
+    "zutaten": [
+      {
+        "name": "Rote Bete",
+        "menge": 300,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Walnüsse",
+        "menge": 30,
+        "einheit": "g"
+      },
+      {
+        "name": "Rucola",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Apfel",
+        "menge": 1,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Balsamico",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "titel": "Warmer Linsensalat mit Ofen-Kürbis und Feta",
+    "kategorie": "Salat",
+    "schwierigkeitsgrad": "mittel",
+    "zubereitungszeit": 40,
+    "portionen": 2,
+    "bild": "warmer-linsensalat-mit-ofen-kuerbis-und-feta",
+    "anleitung": "Ofen auf 200 °C vorheizen. Kürbis würfeln, mit Olivenöl und Salz mischen und 25 Minuten rösten. Kürbiskerne in einer Pfanne ohne Fett rösten. Für das Dressing Balsamico, Senf und Olivenöl verrühren. Linsen erwärmen, mit dem Kürbis, Rucola und Zwiebelringen mischen, mit dem Dressing anmachen und mit Feta und Kürbiskernen toppen.",
+    "zutaten": [
+      {
+        "name": "Kürbis",
+        "menge": 400,
+        "einheit": "g"
+      },
+      {
+        "name": "Linsen",
+        "menge": 200,
+        "einheit": "g"
+      },
+      {
+        "name": "Feta",
+        "menge": 80,
+        "einheit": "g"
+      },
+      {
+        "name": "Rucola",
+        "menge": 40,
+        "einheit": "g"
+      },
+      {
+        "name": "Rote Zwiebel",
+        "menge": 0.5,
+        "einheit": "Stk"
+      },
+      {
+        "name": "Kürbiskerne",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Balsamico",
+        "menge": 1,
+        "einheit": "EL"
+      },
+      {
+        "name": "Olivenöl",
+        "menge": 2,
+        "einheit": "EL"
+      },
+      {
+        "name": "Senf",
+        "menge": 1,
+        "einheit": "TL"
+      },
+      {
+        "name": "Salz",
+        "menge": 1,
+        "einheit": "Prise"
+      }
+    ]
+  }
+]
