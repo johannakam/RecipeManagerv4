@@ -1,0 +1,4 @@
+Hier kommen die Fotos der Rezepte hinein (optional).
+Dateiname = Bildname aus Bilderliste.txt, z. B. gemuese-lasagne-mit-linsensauce.jpg
+Erlaubt: .jpg, .jpeg, .png
+Neue Fotos werden beim nächsten Start der App angezeigt.
