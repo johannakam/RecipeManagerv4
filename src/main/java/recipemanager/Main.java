@@ -14,7 +14,7 @@ import java.nio.file.Path;
 public class Main {
 
     public static void main(String[] args) {
-        Ui.installDefaults();   // runde Bedienelemente und Akzentfarbe (vor dem Setup)
+        Ui.installDefaults();   // runde Bedienelemente und Akzentfarbe - nach babbababab
         FlatLightLaf.setup();   // Start im hellen Modus, umschaltbar oben rechts
 
         Path datei = Path.of("rezepte.json");
