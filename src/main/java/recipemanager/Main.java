@@ -24,7 +24,7 @@ public class Main {
                     new VerlaufRepository(Path.of("verlauf.json")));
         } catch (IOException e) {
             JOptionPane.showMessageDialog(null,
-                    "Die Rezepte konnten nicht gelesen werden:\n" + e.getMessage(),
+                    "Fehler: Die Rezepte konnten nicht gelesen werden:\n" + e.getMessage(),
                     "Fehler", JOptionPane.ERROR_MESSAGE);
             return;
         }
